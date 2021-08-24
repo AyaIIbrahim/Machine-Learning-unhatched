@@ -6,3 +6,13 @@ Resources |
 --------- |
 [CS50' AI] (https://learning.edx.org/course/course-v1:HarvardX+CS50AI+1T2020/home) |
 [Intro to ML Problem Framing] (https://developers.google.com/machine-learning/problem-framing) |
+
+
+The inspiration came from 360 days ML.
+
+
+###[Day 1  23/8/2021]
+Simple introduction and a good recap in ML framing but unfortunately no coding.
+
+###[Day 2]
+
