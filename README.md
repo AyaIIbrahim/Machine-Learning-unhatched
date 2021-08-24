@@ -5,3 +5,4 @@
 Resources |
 --------- |
 [CS50' AI] (https://learning.edx.org/course/course-v1:HarvardX+CS50AI+1T2020/home) |
+[Intro to ML Problem Framing] (https://developers.google.com/machine-learning/problem-framing) |
