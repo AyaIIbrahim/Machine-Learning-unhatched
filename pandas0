@@ -1,0 +1,28 @@
+import numpy as np
+import pandas as pd
+
+# create DataFrame, (3,4)
+data = np.array([[1, 2, 3, 4], [5, 6, 7, 8], [9, 10, 11, 12], [13, 14, 15, 16]])
+col_names = ['col0', 'col1', 'col2', 'col3']
+my_df = pd.DataFrame(data= data, columns= col_names)
+print(my_df)
+
+# DF with random cells content
+data_ran = np.random.randint(low= 1, high= 16, size= (4,4))
+data_ran_col = ['col0', 'col1', 'col2', 'col3']
+ran_df = pd.DataFrame(data= data_ran, columns= data_ran_col)
+print(ran_df)
+
+# cell (2,1)
+val = ran_df['col0'].values[1]
+
+# Accessing Rows, cells and columns
+print(ran_df.head(3))
+print(ran_df.iloc[[2]])
+print(val)
+print(ran_df[0:4])
+
+# shallowCopy(reference), deepCopy
+ref_df = ran_df
+cop_df = ref_df.copy()
+
