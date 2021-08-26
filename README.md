@@ -18,3 +18,4 @@ Simple introduction and a good recap in ML framing but unfortunately no coding.
 ### [Day 2]
 Read Panda's DataFrame notebook, very quick and some coding
 
+<img src="https://user-images.githubusercontent.com/60445096/130901061-55f0113d-d209-43b1-85c2-4300318ad263.png" width="90%"></img> 
