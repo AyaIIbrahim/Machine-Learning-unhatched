@@ -14,5 +14,7 @@ The inspiration came from 360 days ML.
 ###[Day 1  23/8/2021]
 Simple introduction and a good recap in ML framing but unfortunately no coding.
 
-###[Day 2]
+
+### [Day 2]
+Read Panda's DataFrame notebook, very quick and some coding
 
