@@ -8,8 +8,12 @@ Resources |
 [Intro to ML Problem Framing] (https://developers.google.com/machine-learning/problem-framing) |
 
 
-The inspiration came from 360 days ML.
+Problems |
+---------|
+[salary prediction] (https://www.kaggle.com/rsadiq/salary) |
 
+
+The inspiration came from x_num days ML that many people tried, either to advance their skills with or build them from scratch.
 
 ###[Day 1  23/8/2021]
 Simple introduction and a good recap in ML framing but unfortunately no coding.
