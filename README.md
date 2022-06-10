@@ -15,7 +15,7 @@ Problems |
 
 The inspiration came from x_num days ML that many people tried, either to advance their skills with or build them from scratch.
 
-###[Day 1  23/8/2021]
+### [Day 1  23/8/2021]
 Simple introduction and a good recap in ML framing but unfortunately no coding.
 
 
